@@ -13,10 +13,10 @@ This repository contains modified code which I originally developed and implemen
 # Pre-Requisites
 
 - An active Jamf Pro license.
-- An Active Jamf Pro site accessible through a `jamfcloud` URL.
+- An Active Jamf Pro instance accessible through a `jamfcloud` URL.
 - Jamf API administrator credentials.
 
 # PowerShell Requirements
 
-Host machine must have an installation of PowerShell v2025.2.0 or greater.
+Host machine must have an installation of **PowerShell v2025.2.0** or greater.
 
